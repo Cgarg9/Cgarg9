@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.baltana.com%2Ffiles%2Fwallpapers-5%2FCoder-Desktop-Wallpaper-16656.jpg&tbnid=OYrqFOxtiYK3cM&vet=12ahUKEwjr4ZLg-5iGAxU95jgGHfovDzIQMygtegUIARDWAQ..i&imgrefurl=https%3A%2F%2Fwww.baltana.com%2Ftech%2Fcoder-desktop-wallpaper-16656.html&docid=6xQ9pcx304jITM&w=1024&h=576&q=coder%20wallpaper&ved=2ahUKEwjr4ZLg-5iGAxU95jgGHfovDzIQMygtegUIARDWAQ"  />
+  <img height="155" src="https://c4.wallpaperflare.com/wallpaper/792/460/915/code-coding-programming-simple-background-wallpaper-preview.jpg"  />
 </div>
 
 ###
@@ -92,9 +92,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Cgarg9/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Cgarg9/Cgarg9/output/snake.svg" alt="Snake animation" />
 
 ###
