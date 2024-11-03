@@ -25,6 +25,7 @@
 
 <p align="left">I'm Chirag from Chandigarh, India<br><br>- 🔭 I’m currently a student at Punjab Engineering College, Chandigarh<br>- 📚 I'm currently learning Django<br>- ⚡ In my free time I like to sleep</p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cgarg9&theme=onedark)](https://github.com/Cgarg9/github-profile-trophy)
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -94,5 +95,3 @@
 </div>
 
 ###
-
-[![An image of @cgarg9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cgarg9)](https://holopin.io/@cgarg9)
